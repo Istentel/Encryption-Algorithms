@@ -13,7 +13,7 @@ string getText() {
 	return p;
 }
 
-string getUserImputKey(string p) {
+string getUserInputKey(string p) {
 	string k;
 	do {
 		cout << "Key: ";
